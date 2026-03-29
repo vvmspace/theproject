@@ -1,0 +1,7 @@
+docs/VACANCY.md
+tmp
+.env
+docker/data
+docker/volumes
+.idea
+.kiro

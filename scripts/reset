@@ -1,0 +1,12 @@
+#!/bin/bash
+
+rm -rf node_modules
+rm -rf src
+rm -rf public
+rm -rf target
+rm -rf .next
+rm -rf dist
+rm -rf build
+rm -rf api
+rm -rf ai
+rm -rf changelogs/*.md
