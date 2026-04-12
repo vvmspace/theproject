@@ -13,11 +13,15 @@ By default we use `gemini-2.5-flash` for free.
 API keys should be stored in environment variables, separated by commas, like:
 
 ```
+LOCAL_LLM_API_KEY= # OpenAI compatibke
+LOCAL_LLM_API_URL= # optional, if provided  
 GEMINI_API_KEY=gemini_key1,gemini_key2,gemini_key3
 OPENAI_API_KEY=openai_key
 OPENROUTER_API_KEY=openrouter_key1,openrouter_key2
 ```
 
 If there are more than 1 key for provider, we should use the random key from the list.
+
+
 
 
