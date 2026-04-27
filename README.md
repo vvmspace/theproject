@@ -1,6 +1,16 @@
-# The Project
+# The Project [WIP]
 
 The Project is an AI-oriented starter kit for building scalable API 
+
+## Demo
+
+### WIP English version
+
+[![The Project - AI-First starter-kit](https://img.youtube.com/vi/xsPTPogATB8/0.jpg)](https://www.youtube.com/watch?v=xsPTPogATB8)
+
+### Legacy RU version
+
+[![The Project - AI-First starter-kit](https://img.youtube.com/vi/Wgq5o_Td7CM/0.jpg)](https://www.youtube.com/watch?v=Wgq5o_Td7CM)
 
 ## Quick Start
 
