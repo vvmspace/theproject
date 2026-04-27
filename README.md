@@ -6,11 +6,11 @@ The Project is an AI-oriented starter kit for building scalable API
 
 ### WIP English version
 
-[![The Project - AI-First starter-kit](https://img.youtube.com/vi/xsPTPogATB8/0.jpg)](https://www.youtube.com/watch?v=xsPTPogATB8)
+[![The Project - AI-First starter kit](https://img.youtube.com/vi/xsPTPogATB8/0.jpg)](https://www.youtube.com/watch?v=xsPTPogATB8)
 
 ### Legacy RU version
 
-[![The Project - AI-First starter-kit](https://img.youtube.com/vi/Wgq5o_Td7CM/0.jpg)](https://www.youtube.com/watch?v=Wgq5o_Td7CM)
+[![The Project - AI-First starter kit](https://img.youtube.com/vi/Wgq5o_Td7CM/0.jpg)](https://www.youtube.com/watch?v=Wgq5o_Td7CM)
 
 ## Quick Start
 
@@ -20,7 +20,7 @@ The Project is an AI-oriented starter kit for building scalable API
 
 ## Project Map
 
-Most `.md` files are written in a declarative style, with a clear focus on use by AI agents.
+Most `.md` files are written in a **declarative style**, with a clear **focus on** use by **AI agents**.
 
 - [`AGENTS.md`](AGENTS.md) - agent constitution and rules
 - [`CLAUDE.md`](CLAUDE.md), [`GEMINI.md`](GEMINI.md) - symlinks to AGENTS.md
