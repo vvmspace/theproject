@@ -2,7 +2,7 @@
 
 ## LLM APIs Abstraction concept
 
-We should use abstraction layer for LLM APIs to be able to switch between different LLM providers easily.
+We should use abstraction layer for LLM APIs, **langchain** for example, to be able to switch between different LLM providers easily.
 
 `model` should be passed by parameter and based on `model` we should use different LLM providers following abstraction principles.
 
@@ -13,7 +13,7 @@ By default we use `gemini-2.5-flash` for free.
 API keys should be stored in environment variables, separated by commas, like:
 
 ```
-LOCAL_LLM_API_KEY= # OpenAI compatibke
+LOCAL_LLM_API_KEY= # OpenAI compatibe, LM Studio + Gemma 4, for example
 LOCAL_LLM_API_URL= # optional, if provided  
 GEMINI_API_KEY=gemini_key1,gemini_key2,gemini_key3
 OPENAI_API_KEY=openai_key
