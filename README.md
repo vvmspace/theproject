@@ -23,7 +23,7 @@ The Project is an AI-oriented starter kit for building scalable API
 Most `.md` files are written in a **declarative style**, with a clear **focus on** use by **AI agents**.
 
 - [`AGENTS.md`](AGENTS.md) - agent constitution and rules
-- [`CLAUDE.md`](CLAUDE.md), [`GEMINI.md`](GEMINI.md) - symlinks to AGENTS.md
+- [`CLAUDE.md`](CLAUDE.md), [`GEMINI.md`](GEMINI.md) - symlinks to AGENTS.md for Claude and Gemini
 - [`docs/API.md`](docs/API.md) - API contracts
 - [`docs/CONTAINERS.md`](docs/CONTAINERS.md) - containers architecture
 - [`docs/ENVIRONMENTS.md`](docs/ENVIRONMENTS.md) - environments config
