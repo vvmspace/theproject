@@ -1,4 +1,4 @@
 - [v] Terraform
-- [x] serverless.yml
+- [n] serverless.yml
 
 Provider: specified by user or AWS
