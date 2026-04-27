@@ -29,6 +29,7 @@ Most `.md` files are written in a **declarative style**, with a clear **focus on
 - [`docs/ENVIRONMENTS.md`](docs/ENVIRONMENTS.md) - environments config
 - [`docs/EVENTS_AND_MESSAGES.md`](docs/EVENTS_AND_MESSAGES.md) - events and messaging flow
 - [`docs/FILES.md`](docs/FILES.md) - files architecture
+- [`docs/IAC.md`](docs/IAC.md) - IaS (Infrastructure as Code) - Terraform/Serverless configuration
 - [`docs/LLM_APIS.md`](docs/LLM_APIS.md) - LLM API integrations
 - [`docs/LOCAL_TO_PRODUCTION_PIPELINE.md`](docs/LOCAL_TO_PRODUCTION_PIPELINE.md) - delivery pipeline
 - [`docs/METRICS_AND_VISUALISATION.md`](docs/METRICS_AND_VISUALISATION.md) - metrics and dashboards
