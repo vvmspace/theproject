@@ -16,7 +16,7 @@ The Project is an AI-oriented starter kit for building scalable API
 
 - Open `docs/` folder, edit project desciption and starter prompt in `docs/START.md`.
 - Optional: Configure the project for your goal by editing `docs/*.md`
-- Use starter prompt in your favorite Vibe-code editor.
+- Use starter prompt [START.md](docs/START.md) in your favorite Vibe-code editor.
 
 ## Project Map
 
