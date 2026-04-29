@@ -10,7 +10,7 @@ The Project is an AI-oriented starter kit for building scalable API
 
 ### Legacy RU version
 
-[![The Project - AI-First starter kit](https://img.youtube.com/vi/Wgq5o_Td7CM/0.jpg)](https://www.youtube.com/watch?v=Wgq5o_Td7CM)
+[![The Project - AI-First starter kit](https://img.youtube.com/vi/Wgq5o_Td7CM/1.jpg)](https://www.youtube.com/watch?v=Wgq5o_Td7CM)
 
 ## Quick Start
 
